@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 💬 Ask me about **AngularJS, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **Angular2-13, ReactJS, VueJS ,NestJS, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **mustafa05deniz@gmail.com**
 
