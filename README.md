@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mustafa05deniz@gmail.com**
 
-- 📄 Know about my experiences [mustafadeniz.net](mustafadeniz.net)
+- 📄 Know about my experiences mustafadeniz.net
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
