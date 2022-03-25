@@ -15,4 +15,8 @@
 
 
 <h3>Articles</h3>
-<a href="https://medium.com/p/d06568f51653" target="_blank">Making Components Dynamic</a>
+<ul>
+  <li>
+    <a href="https://medium.com/p/d06568f51653" target="_blank">Making Components Dynamic</a>
+  </li>
+  </ul>
