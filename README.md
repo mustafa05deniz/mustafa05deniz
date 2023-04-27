@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **VueJS**
 
-- 💬 Ask me about **Angular2-13, ReactJS, VueJS ,NestJS, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **Angular2-15, VueJS ( Nuxt2-3 ) ,NestJS, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **mustafa05deniz@gmail.com**
 
