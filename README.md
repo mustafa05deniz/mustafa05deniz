@@ -17,7 +17,7 @@
 <h3>Articles</h3>
 <ul>
   <li>
-    <a href="https://medium.com/p/d06568f51653" target="_blank">Making Components Dynamic</a>
+    <a href="https://medium.com/p/d06568f51653" target="_blank">Making Components Dynamic</a></br>
     <a href='https://medium.com/@mustafa05deniz/real-time-ui-sync-how-to-do-fe9abc3a51b6'>Real-Time UI Sync: How To Do</a>
   </li>
   </ul>
