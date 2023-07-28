@@ -23,4 +23,8 @@
   <li>
    <a href='https://medium.com/@mustafa05deniz/real-time-ui-sync-how-to-do-fe9abc3a51b6'>Real-Time UI Sync: How To Do</a>
   </li>
+  <li>
+   <a href='https://medium.com/roofstacks-tech/notion-ile-kendi-blog-sayfanızı-yapabilirsiniz-dbaa922b10e)https://medium.com/roofstacks-tech/notion-ile-kendi-blog-sayfanızı-yapabilirsiniz-dbaa922b10e'>Code Your Own Blog with Notion</a>
+  </li>
+  
   </ul>
